@@ -53,13 +53,6 @@ int main(){
     }
 
     printf("\n Result: %lf", result);
-
-
-
-
-    
-    
-    
-    
+   
     return 0;
 }
